@@ -9,4 +9,10 @@ The five recommender methods I worked on include:
 - TF-IDF Cosine Matrix (Content-Based Filtering)
 - Item TF-IDF & Attribute K-NN (Content-Based Filtering)
 
-Data for the project can be collected from the following link: http://jmcauley.ucsd.edu/data/renttherunway/renttherunway_final_data.json.gz
+Details for data from the project can be found at the following link: http://cseweb.ucsd.edu/~jmcauley/datasets.html
+
+Data Citation: 
+
+Decomposing fit semantics for product size recommendation in metric spaces
+Rishabh Misra, Mengting Wan, Julian McAuley
+RecSys, 2018
