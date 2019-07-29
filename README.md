@@ -10,9 +10,3 @@ The five recommender methods I worked on include:
 - Item TF-IDF & Attribute K-NN (Content-Based Filtering)
 
 Details for data from the project can be found at the following link: http://cseweb.ucsd.edu/~jmcauley/datasets.html
-
-Data Citation: 
-
-Decomposing fit semantics for product size recommendation in metric spaces
-Rishabh Misra, Mengting Wan, Julian McAuley
-RecSys, 2018
